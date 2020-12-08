@@ -1,5 +1,6 @@
-BIOS 611 - Project 1
+CAFO Analysis
 --------------------
+Project 1 as part of BIOS 611 Introduction to Data Science Class
 
 North Carolina County Health Rankings 2020 Data
 
